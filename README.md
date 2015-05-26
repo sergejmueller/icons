@@ -1,10 +1,7 @@
 ### Illustrated Icons
 
-Development, WordPress, Social Media
-Feel free to use these icons for whatever you like.
+Development, WordPress, Social Media Icons – Feel free to use these icons for whatever you like.
 
-
-###### Icons
 
 <p align="center">
     <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/apple.png" alt="Apple" />
@@ -25,4 +22,5 @@ Feel free to use these icons for whatever you like.
 * Format: PNG
 
 
-By [Sergej Müller](https://sergejmueller.github.io)
+###### Author
+[Sergej Müller](https://sergejmueller.github.io)
