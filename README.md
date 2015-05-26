@@ -23,5 +23,6 @@ Development, WordPress, Social Media Icons – Feel free to use these icons for
 * Transparent
 
 
-###### Author
+###### Copyright
+
 [Sergej Müller](https://sergejmueller.github.io)
