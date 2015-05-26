@@ -20,6 +20,7 @@ Development, WordPress, Social Media Icons – Feel free to use these icons for
 
 * Size: 256x25 Pixel
 * Format: PNG
+* Transparent
 
 
 ###### Author
