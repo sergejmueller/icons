@@ -16,13 +16,13 @@ Development, WordPress, Social Media Icons – Feel free to use these icons for
 </p>
 
 
-###### Attributes
+**Attributes**
 
 * Size: 256x25 Pixel
 * Format: PNG
 * Transparent
 
 
-###### Copyright
+**Copyright**
 
 [Sergej Müller](https://sergejmueller.github.io)
