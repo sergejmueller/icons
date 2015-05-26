@@ -1,20 +1,25 @@
-# Illustrated Icons: Development, WordPress, Social Media
+### Illustrated Icons
 
+Development, WordPress, Social Media
 Feel free to use these icons for whatever you like.
 
-*Icons*
 
-![Apple](icons/apple.png)
-![JS-CSS](icons/js-css.png)
-![PHP-CSS-JS](icons/php-css-js.png)
-![PHP](icons/php.png)
-![Twitter](icons/twitter.png)
-![WordPress](icons/wordpress1.png)
-![WordPress](icons/wordpress2.png)
-![WordPress](icons/wordpress3.png)
-![WordPress](icons/wordpress4.png)
+###### Icons
 
-*Attributes*
+<p align="center">
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/apple.png" alt="Apple" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/js-css.png" alt="JS-CSS" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/php-css-js.png" alt="PHP-CSS-JS" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/php.png" alt="PHP" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/twitter.png" alt="Twitter" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/wordpress1.png" alt="WordPress" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/wordpress2.png" alt="WordPress" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/wordpress3.png" alt="WordPress" />
+    <img width="128" height="128" src="https://raw.githubusercontent.com/sergejmueller/icons/master/icons/wordpress4.png" alt="WordPress" />
+</p>
+
+
+###### Attributes
 
 * Size: 256x25 Pixel
 * Format: PNG
